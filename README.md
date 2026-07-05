@@ -1,10 +1,10 @@
-👋 Hi, I'm Vaibhavi-Singh 
+👋 Hi, I'm Vaibhavi-Singh. 
 
-💻 I’m interested in Web Development and AI
+💻 I’m interested in Web Development and AI.
 
-🌱 I’m currently learning AI
+🌱 I’m currently learning AI.
 
-🤝 Looking to collaborate on: Exciting real-world projects
+🤝 Looking to collaborate on: Exciting real-world projects.
 
 📫 Reach me at: singhvaibhavi665@gmail.com
 
